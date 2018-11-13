@@ -64,3 +64,5 @@ mvn spring-boot:run
 ```
 
 You can access https://localhost:8080/ and virtual machine list will be displayed.
+
+![screenshot](/images/screenshot.png)
